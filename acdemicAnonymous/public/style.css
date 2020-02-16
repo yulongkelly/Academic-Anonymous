@@ -1,0 +1,68 @@
+.header {
+  text-align: center;
+  background: linear-gradient(rgb(49, 49, 49), black);
+  height: 300px;
+  font-size: 60px;
+  /* display: flex; */
+  justify-content: center;
+  color: whitesmoke;
+  margin-bottom: 0px;
+  padding-top: 109px;
+}
+
+.button {
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  height: 50px;
+  background-color: teal;
+}
+
+.inc {
+  margin-left: 100%;
+  width: 100%;
+}
+
+.thumbs {
+  margin-top: 50%;
+  text-align: center;
+}
+
+.displayQuestion {
+  flex: 0.3;
+  flex-direction: row;
+}
+
+body {
+  background-color: transparent;
+  background-image: url("https://i.redd.it/1zrgd4k22lc41.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  min-height: 100vh;
+}
+
+.classHeader {
+  background-color: teal;
+}
+
+.card-text {
+  color: "black";
+  background-color: "trasparent";
+}
+
+
+
+.cardw-75 {
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+
+.darker {
+  border-color: #ccc;
+  background-color: #ddd;
+}
